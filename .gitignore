@@ -1,0 +1,13 @@
+# ── Python ─────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ── Generated locally (icon cache + user channel config) ───
+icons/
+free-news-switcher.channels.json
+
+# ── OS cruft ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
